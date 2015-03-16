@@ -19,7 +19,7 @@ var circleSpace = 50; // 4+(3*25) + 10; // 10 for safety
 
 
 
-var totalDraws = 1000;
+var totalDraws = 100;
 
 
 
